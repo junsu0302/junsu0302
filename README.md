@@ -1,7 +1,6 @@
 # Kim Junsu
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsu0302&layout=compact&theme=dark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junsu0302)](https://solved.ac/junsu0302/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsu0302&layout=compact&theme=dark) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junsu0302)](https://solved.ac/junsu0302/)
 
 ## Tech Stack
 
