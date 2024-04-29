@@ -1,6 +1,11 @@
 # Kim Junsu
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsu0302&layout=compact&theme=dark) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junsu0302)](https://solved.ac/junsu0302/)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junsu0302&layout=compact&theme=dark&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=junsu0302&theme=dark" />
+</a>
 
 ## Tech Stack
 
@@ -15,4 +20,4 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsu0302&show_icons=true&theme=dark)
+
