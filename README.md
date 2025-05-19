@@ -11,15 +11,17 @@
 ## 🏆 Awards & Activities
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junsu0302&layout=compact&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=NestNote" />
-    </td>
-  </tr>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junsu0302&layout=compact&theme=tokyonight" width="400" height="200"/>
+  </td>
+  <td>
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=NestNote" width="400" height="200"/>
+  </td>
+</tr>
 </table>
+
+
 
 ## 📜 Certifications
 
