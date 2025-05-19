@@ -1,23 +1,41 @@
-# Kim Junsu
+# 🧑🏻‍💻 Kim Junsu
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junsu0302&layout=compact&theme=dark&langs_count=8&card_width=300" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=junsu0302&theme=dark" />
-</a>
+데이터를 탐색하고 모델을 최적화하여 잘 구성된 분석 시스템을 만들고 싶은 개발자 김준수입니다!
 
-## Tech Stack
+데이터를 깊이 이해하고 다양한 실험을 통해 문제를 해결하는 과정이 즐겁습니다  
+상황에 맞는 모델과 구조를 고민하고 정량적인 분석으로 더 나은 결정을 이끌어내는 것을 목표로 합니다  
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=Nestjs&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+완성도 높은 구조, 재현 가능한 파이프라인, 그리고 실용적인 분석 시스템을 추구합니다.
 
 
+## 🏆 Awards & Activities
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junsu0302&layout=compact&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=NestNote" />
+    </td>
+  </tr>
+</table>
+
+## 📜 Certifications
+
+- **SQLD** : 2024.09.20 취득
+- **DAsP** : 2024.10.25 취득
+- **ADsP** : 2024.11.29 취득
+- **PCCE Lv4** : 2025.04.20 취득
+
+## 🛠 Tech Stack
+
+- **Language** : Python, Java, Go
+- **Data Exploration** : Tableau, Numpy, Pandas, Matplotlib, Seaborn, SHAP
+- **Data Analysis** : Tensorflow, Scikit Learn, XGBoost, LightGBM, Catboost
+- **DevOps** : Docker, Kubeflow, Airflow, MLFlow
+- **Front-End** : TypeScript, React, Next.js, Redux, Tailwind
+- **Back-End** : Spring-boot, Spring Security
+- **Database** : Postgresql, Mysql, MongoDB
+- **ETC** : git, Notion, Ubuntu
 
