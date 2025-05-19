@@ -13,13 +13,14 @@
 <table>
 <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junsu0302&layout=compact&theme=tokyonight" width="400" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junsu0302&layout=compact&theme=tokyonight" height="200" style="display:block;"/>
   </td>
   <td>
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=NestNote" width="400" height="200"/>
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=NestNote" height="200" style="display:block;"/>
   </td>
 </tr>
 </table>
+
 
 
 
