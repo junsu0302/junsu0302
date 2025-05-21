@@ -39,6 +39,6 @@
 - **DevOps** : Docker, Kubeflow, Airflow, MLFlow
 - **Front-End** : TypeScript, React, Next.js, Redux, Tailwind
 - **Back-End** : Spring-boot, Spring Security
-- **Database** : Postgresql, Mysql, MongoDB
+- **Database** : PostgreSQL, MySQL, MongoDB
 - **ETC** : git, Notion, Ubuntu
 
