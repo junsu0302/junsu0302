@@ -13,7 +13,7 @@
 <table>
 <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junsu0302&layout=compact&theme=tokyonight" height="200" style="display:block;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junsu0302&layout=compact&theme=tokyonight&cache_seconds=1800" height="200" />
   </td>
   <td>
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=NestNote" height="200" style="display:block;"/>
