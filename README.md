@@ -23,12 +23,14 @@
 
 | 프로젝트 명 | 기간 | 설명 | 주요 기술 | 형태 |
 | -------- | --- | --- | ------- | --- |
+| FinSight | 2025.03 ~ 2025.10 | KOSPI200 주식들을 대상으로 섹터 군집화, 시장 국면 분류, 가격 예측, XAI 분석 수행 | UMAP, HDBSCAN, AutoEncoder, HMM, XGBoost, Randomforest, LSTM, Ridge, SHAP | 개인 프로젝트 |
 | BoardLite | 2024.02 ~ 2024.04 | 사용자와 운영자의 기능이 나뉜 게시판 서비스 | Spring boot, Spring Security, JPA, PostgreSQL | 개인 프로젝트 |
 | MyCard | 2023.12 ~ 2024.01 | 개인 거래 내역 기반의 개인 맞춤형 카드 추천 서비스 | Next.js, TypeScript, Redux, Tailwind | 개인 프로젝트 |
 | CreditCheck | 2023.07 ~ 2023.09 | 신용카드 이상 거래 탐지 및 신용도 관리 서비스 | Scikit-Learn, XGBoost, LightGBM, Catboost, RandomForest | 개인 프로젝트 |
 | RLTrading | 2023.03 ~ 2023.06 | 강화학습(DQN)을 활용한 트레이딩 봇 서비스 | Python, Numpy, DQN | 개인 프로젝트 |
 | ARIA | 2022.11 ~ 2023.02 | 다양한 딥러닝 모델을 직접 구현한 딥러닝 프레임워크 | DNN, CNN, RNN, LSTM, GRU | 개인 프로젝트 |
 
+- 동국대학교 WISE 우수 논문상 : 2025.11.27 수상
 
 ## 📜 Certifications
 
