@@ -8,15 +8,20 @@
 완성도 높은 구조, 재현 가능한 파이프라인, 그리고 실용적인 분석 시스템을 추구합니다.
 
 
+
+
 ## 🏆 Awards & Activities
 
 <table>
 <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junsu0302&layout=compact&theme=tokyonight&cache_seconds=1800" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junsu0302&layout=compact&theme=tokyonight&cache_seconds=1800" height="160" />
   </td>
   <td>
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=NestNote" height="200" style="display:block;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" height="160">
+  </td>
+  <td>
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=NestNote" height="160" style="display:block;"/>
   </td>
 </tr>
 </table>
